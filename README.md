@@ -1,1 +1,1 @@
-# javascript_assignment_01
+# javascript_assignment
